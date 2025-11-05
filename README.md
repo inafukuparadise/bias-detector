@@ -11,4 +11,5 @@ AI生成テキストの倫理リスクを検知
 ## 次のステップ
 - PCで実行して動作確認
 - 正規表現で「殺すぞ」などの変形も検知
-<img width="1920" height="1030" alt="browserSS" src="https://github.com/user-attachments/assets/7229d8ae-dc29-4d94-b382-f617135fec07" />
+
+<img width="1219" height="624" alt="browserSS" src="https://github.com/user-attachments/assets/7b5fe164-4fc8-48ea-83ad-8e9730e046be" />
